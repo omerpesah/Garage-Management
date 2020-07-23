@@ -1,3 +1,3 @@
 # Garage-Management
-Garage system using OOP coding.
+Garage Management using OOP coding.
 Easily add new types of vehicles.
